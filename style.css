@@ -1,0 +1,20 @@
+body{
+    background-color: wheat;
+}
+b{
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    width: 900;
+    font-size: 45;
+}
+#webcam_html,#result{
+    width: 400;
+    height: 400;
+
+    border-style: outset;
+    border-color: black;
+    border-width: 5px;
+
+}
